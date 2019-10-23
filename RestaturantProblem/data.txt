@@ -1,0 +1,19 @@
+Stolik	Miejsc
+1		2
+2		2
+3		3
+4		4
+
+Osoba	Znajomi
+Kasia	Ala, Arek, Michal, Dawid
+Ala		Michal, Kasia
+Dawid	Lucjan, Barbara, Jedrzej
+Arek	Ala, Dawid, Jedrzej
+Jedrzej	Arek, Barbara, Kasia
+Lucjan	Barbara, Michal, Dawid
+Michal	Arek, Kasia
+
+Kryterium									Waga
+-najwieksza liczba zadowolonych osob		1
+-najmniejsza liczba niezadowolonych osob	1
+-najwieksza liczba wolnych stolikow			1
